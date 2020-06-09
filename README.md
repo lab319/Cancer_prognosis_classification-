@@ -1,4 +1,5 @@
 # Cancer_prognosis_classification
+### If you find our method is useful, please cite our paper: Baoshan Ma, Fanyu Meng, Ge Yan, et al. Diagnostic classification of cancers using extreme gradient boosting algorithm and multi-omics data [J]. Computers in Biology and Medicine, vol 121, June 2020, 103761.
 
 **This repository contains python and R implementation of the algorithms proposed in "Diagnostic classification of cancers using XGBoost and multi-omics data".**
 
